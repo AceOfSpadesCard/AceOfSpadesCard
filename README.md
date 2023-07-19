@@ -5,4 +5,4 @@
 * Object Oriented Programming is superior
 * Blue Perl in the diamond mine
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceOfSpades&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceOfSpadesCard&size_weight=0.5&count_weight=0.5)
