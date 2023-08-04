@@ -1,2 +1,1 @@
-* AceOfSpades
-* I enjoy playing card games.
+Computer Network/Security Architect
