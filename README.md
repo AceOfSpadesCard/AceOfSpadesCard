@@ -1,2 +1,3 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=AceOfSpadesCard&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AceOfSpadesCard&layout=compact)
+
+<img height=200 width=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AceOfSpadesCard&layout=compact" alt="Computer Science's Language stats" />
+</a>
